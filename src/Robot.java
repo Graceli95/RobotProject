@@ -1,4 +1,3 @@
-import java.awt.*;
 
 import static java.awt.Color.black;
 
